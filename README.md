@@ -7,11 +7,11 @@ The problem is to perform sentiment analysis on customer feedback to gain insigh
 Project Outcomes:
 The Project helps companies Visualize and Understand:
 
-Customer satisfaction
-Product feedback
-Brand perception
-Competitive Intelligence
-Market Trend Analysis
+Customer satisfaction,
+Product feedback,
+Brand perception,
+Competitive Intelligence,
+Market Trend Analysis,
 This information helps the Companies to improve their products and services by observing the performance of Competitor's products among the Public. Thus, improving the Brand’s perception among the Public leads to Profit and Growth of the Company.
 
 Key Features:
